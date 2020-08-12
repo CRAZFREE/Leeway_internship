@@ -99,7 +99,7 @@ isEmpty= ({firstName,lastName,email,password}) =>{
             }
           
           <h1>
-            <p>FirstName {this.state.firstName}<br> {this.state.lastName}</br> <br>{this.state.email}</br> </p>
+          <p>FirstName {this.state.firstName}<br> {this.state.lastName}</br> <br>{this.state.email}</br> </p>
           </h1>
         </Form>
       </div>
